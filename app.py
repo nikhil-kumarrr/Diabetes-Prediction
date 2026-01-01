@@ -125,7 +125,7 @@ st.markdown("</div>", unsafe_allow_html=True)
 # ===============================
 # Prediction
 # ===============================
-if st.button("Predict Diabetes Risk"):
+if st.button("Predict"):
     X = np.array([[pregnancies, glucose, bp, skin, insulin, bmi, dpf, age]])
 
     pred = model.predict(X)[0]
