@@ -73,5 +73,5 @@ streamlit run app.py
 https://diabetesriskanalyzer.streamlit.app/
 
 ## 📸 Screenshots
-![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202025-12-11%20121107.png?raw=true)
-![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202025-12-11%20121139.png?raw=true)
+![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202026-01-01%20153038.png?raw=true)
+![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202026-01-01%20153430.png?raw=true)
