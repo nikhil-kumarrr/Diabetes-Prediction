@@ -1,4 +1,4 @@
-# 🩺 Diabetes Risk Prediction System
+# Diabetes Risk Prediction System
 An AI-powered healthcare web application built with Streamlit to predict diabetes risk using patient health indicators.
 The system provides both a risk category and a probability-based risk score with an interactive visual interface.
 
