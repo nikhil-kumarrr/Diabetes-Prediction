@@ -66,7 +66,7 @@ streamlit run app.py
 └── README.md
 ```
 
-## 📊 Dataset
+## Dataset
 - Available on Kaggle : https://www.kaggle.com/datasets/shahnawaj9/diabetes-database
 
 ## 🌐 Live Demo
