@@ -4,7 +4,7 @@ The system provides both a risk category and a probability-based risk score with
 
 ##  Features
 - Machine Learning–based diabetes risk prediction
-- 📊 Probability-driven risk assessment with visual risk bar
+- Probability-driven risk assessment with visual risk bar
 - 🎨 Modern healthcare-themed UI with animations
 - ⚡ Real-time prediction using trained ML model
 - 📱 Responsive and clean Streamlit layout
