@@ -9,7 +9,7 @@ The system provides both a risk category and a probability-based risk score with
 - Real-time prediction using trained ML model
 - Responsive and clean Streamlit layout
 
-## 🧠 How It Works
+## How It Works
 - The application takes key patient health inputs such as glucose level, BMI, blood pressure, insulin, age, and medical history.
 - A trained classification model processes this data and:
      #### Predicts diabetes risk (Low / Moderate / High)
