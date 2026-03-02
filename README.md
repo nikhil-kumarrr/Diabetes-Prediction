@@ -57,7 +57,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📁 Project Structure
+## Project Structure
 ```bash
 ├── app.py                         # Streamlit frontend
 ├── best_diabetes_model.joblib     # Trained ML model
