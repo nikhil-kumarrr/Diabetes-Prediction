@@ -69,7 +69,7 @@ streamlit run app.py
 ## Dataset
 - Available on Kaggle : https://www.kaggle.com/datasets/shahnawaj9/diabetes-database
 
-## 🌐 Live Demo
+## Live Demo
 https://diabetesriskanalyzer.streamlit.app/
 
 ## 📸 Screenshots
