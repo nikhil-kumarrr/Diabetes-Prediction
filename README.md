@@ -7,7 +7,7 @@ The system provides both a risk category and a probability-based risk score with
 - Probability-driven risk assessment with visual risk bar
 - Modern healthcare-themed UI with animations
 - Real-time prediction using trained ML model
-- 📱 Responsive and clean Streamlit layout
+- Responsive and clean Streamlit layout
 
 ## 🧠 How It Works
 - The application takes key patient health inputs such as glucose level, BMI, blood pressure, insulin, age, and medical history.
