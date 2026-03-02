@@ -24,7 +24,7 @@ The entire pipeline runs locally with no external API dependency.
 - Joblib
 - Custom CSS (Healthcare UI & animations)
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 ### 1️⃣ Clone the repository
 ```bash
