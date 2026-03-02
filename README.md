@@ -2,7 +2,7 @@
 An AI-powered healthcare web application built with Streamlit to predict diabetes risk using patient health indicators.
 The system provides both a risk category and a probability-based risk score with an interactive visual interface.
 
-## 🚀 Features
+##  Features
 - 🧠 Machine Learning–based diabetes risk prediction
 - 📊 Probability-driven risk assessment with visual risk bar
 - 🎨 Modern healthcare-themed UI with animations
